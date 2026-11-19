@@ -77,7 +77,7 @@ estimate requests and prices.
 
 ## Getting started
 
-Requires Node.js 20+.
+Requires Node.js 22.
 
 ```bash
 npm install

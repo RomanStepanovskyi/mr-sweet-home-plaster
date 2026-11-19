@@ -3,7 +3,7 @@
   "private": true,
   "description": "Decorative plaster studio website — React + React Router frontend, Node.js/Express API with SQLite, cost calculator and admin dashboard",
   "workspaces": ["client", "server"],
-  "engines": { "node": ">=20" },
+  "engines": { "node": "22.x" },
   "scripts": {
     "dev": "npm run dev --workspace server & npm run dev --workspace client",
     "build": "npm run build --workspace client",
