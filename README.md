@@ -4,7 +4,8 @@ A full-stack website for a decorative plaster studio in Charlotte, NC: a finishe
 an **instant cost calculator**, and a **password-protected admin dashboard** for managing
 estimate requests and prices.
 
-**🔗 Live demo:** _coming soon_
+**🔗 Live demo:** [mr-sweet-home-plaster.onrender.com](https://mr-sweet-home-plaster.onrender.com) · Admin: [/admin](https://mr-sweet-home-plaster.onrender.com/admin) (`demo@plaster.dev` / `demo1234`)
+<sub>Free hosting — the first load after inactivity can take up to a minute.</sub>
 
 ![Home page](docs/home.jpg)
 
